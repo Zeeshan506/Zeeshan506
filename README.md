@@ -1,16 +1,24 @@
-- 👋 Hi, I’m @Zeeshan506
-- 👀 I’m interested in Programming as whole. 
-- 🌱 I’m currently learning Different Programming Languages.
-- 💞️ I’m looking to collaborate on C++ Projects.
-- 📫 How to reach me zeeshanazhar506@gmail.com
-- I am a Computer science student. trying to make my way thorugh full stack development.
-- I currently know C++, HTML, CSS and SQL.
-- I am working on Python (DJANGO), and PHP ( Laravel).
-- I am always ready to help regarding anything i know.
-- just here to learn from Ecperiences of Other Developers. 
+👋 Hi, I’m @Zeeshan506
 
+🎓 I'm a Computer Science student passionate about building intelligent, scalable applications.
 
-<!---
-Zeeshan506/Zeeshan506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Currently Working On:
+- Full-stack development using **Python (Django, Flask, FastAPI)**
+- **Machine Learning & AI** through internships and personal research
+- **UI/UX Design** using Figma for real-world client work
+- Daily problem-solving in **Python**
+
+🧠 Technologies & Tools:
+- **Languages:** C++, Python, HTML, CSS, SQL
+- **Frameworks/Libraries:** Django, Flask, FastAPI, React.js, Next.js
+- **Tools:** Git, Figma, Notion, ClickUp, Monday.com
+
+🤝 Looking to collaborate on:
+- **Python-based Machine Learning & AI projects**
+- **Full-stack applications** using Flask, FastAPI, or Django
+- Projects that promote growth, open-source contributions, and community learning
+
+📫 Reach me at: **zeeshanazhar506@gmail.com**  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/syed-zeeshan-azhar-254a24328/)
+
+⚡ Always here to learn, share, and grow through real-world experience and collaboration!
