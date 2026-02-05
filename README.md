@@ -1,24 +1,27 @@
-👋 Hi, I’m @Zeeshan506
+# Syed Zeeshan Azhar
+### Backend Software Engineer | Python Specialist
 
-🎓 I'm a Computer Science student passionate about building intelligent, scalable applications.
+I am a Computer Science undergraduate and Backend Developer experienced in designing scalable APIs, optimizing asynchronous workflows, and architecting database-driven applications. My primary focus is on building robust backend infrastructure using **FastAPI** and **Python**, with proficiency in frontend integration to ensure seamless end-to-end delivery.
 
-🚀 Currently Working On:
-- Full-stack development using **Python (Django, Flask, FastAPI)**
-- **Machine Learning & AI** through internships and personal research
-- **UI/UX Design** using Figma for real-world client work
-- Daily problem-solving in **Python**
+### 🚀 Technical Focus
+- **Backend Engineering:** Developing high-performance RESTful APIs and microservices using **FastAPI** and **Django**.
+- **System Architecture:** Implementing asynchronous task queues and caching strategies with **Celery** and **Redis**.
+- **AI Integration:** Deploying Machine Learning models into production environments (e.g., EchoHire).
+- **Frontend Integration:** Proficient in connecting backend logic with **Next.js** and **React** interfaces.
 
-🧠 Technologies & Tools:
-- **Languages:** C++, Python, HTML, CSS, SQL
-- **Frameworks/Libraries:** Django, Flask, FastAPI, React.js, Next.js
-- **Tools:** Git, Figma, Notion, ClickUp, Monday.com
+### 🛠 Tech Stack
+- **Languages:** Python (Advanced), C++, SQL, JavaScript
+- **Backend Frameworks:** FastAPI, Django, Flask, SQLAlchemy
+- **Infrastructure & DevOps:** Docker, PostgreSQL, Redis, Celery, Git/GitHub
+- **Frontend & UI:** Next.js, React, Tailwind CSS (Focus on API binding & Component Logic)
+- **Tools:** Neovim, Linux, Postman
 
-🤝 Looking to collaborate on:
-- **Python-based Machine Learning & AI projects**
-- **Full-stack applications** using Flask, FastAPI, or Django
-- Projects that promote growth, open-source contributions, and community learning
+### 🤝 Open for Collaboration
+I am interested in contributing to projects involving:
+- **Scalable Backend Systems:** Designing APIs that handle high concurrency and data throughput.
+- **ML Ops:** Bridging the gap between Machine Learning models and web application deployment.
+- **Open Source:** Improving Python-based tools and developer utilities.
 
-📫 Reach me at: **zeeshanazhar506@gmail.com**  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/syed-zeeshan-azhar-254a24328/)
-
-⚡ Always here to learn, share, and grow through real-world experience and collaboration!
+### 📫 Connect
+- **Email:** [zeeshanazhar506@gmail.com](mailto:zeeshanazhar506@gmail.com)
+- **LinkedIn:** [Syed Zeeshan Azhar](https://www.linkedin.com/in/syed-zeeshan-azhar-254a24328)
