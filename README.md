@@ -1,11 +1,15 @@
 # Hi, I'm Syed Zeeshan Azhar
-### AI Engineer & Full Stack Engineer — Agentic AI, RAG & Text-to-SQL Systems
+### AI Engineer & Full Stack Engineer 
+### Agentic AI, RAG & Text-to-SQL Systems
 
 I'm an AI Engineer at **Systems Limited**, building agentic AI systems — multi-agent workflows, Text-to-SQL pipelines, and RAG applications — on top of production-grade Python backends. I also run **StackSmith Labs**, delivering web, AI, and business platforms for clients end to end.
 
 **Portfolio:** [stacksmithlabs.dev/team/syed-zeeshan-azhar](https://www.stacksmithlabs.dev/team/syed-zeeshan-azhar)
+
 **Resume:** [stacksmithlabs.dev/ResumeZeeshan.pdf](https://www.stacksmithlabs.dev/ResumeZeeshan.pdf)
+
 **LinkedIn:** [syed-zeeshan-azhar](https://www.linkedin.com/in/syed-zeeshan-azhar-254a24328)
+
 **Email:** [zeeshanazhar506@gmail.com](mailto:zeeshanazhar506@gmail.com)
 
 ---
@@ -21,16 +25,26 @@ I'm an AI Engineer at **Systems Limited**, building agentic AI systems — multi
 ---
 
 ### AI Engineering
-`LangGraph` `LangChain` `LangSmith` `LlamaIndex` `RAG` `pgvector` `Embeddings` `Prompt Engineering` `MCP` `Text-to-SQL` `Agentic Workflows`
+`LangGraph` `LangChain` `LangSmith` `LlamaIndex` 
+
+`RAG` `pgvector` `Embeddings` `Prompt Engineering` 
+
+`MCP` `Text-to-SQL` `Agentic Workflows`
 
 ### Backend & Data
-`Python` `FastAPI` `PHP` `Laravel` `PostgreSQL` `MySQL` `SQLAlchemy` `Eloquent ORM` `MongoDB` `Celery` `Redis` `WebSockets`
+`Python` `FastAPI` `PHP` `Laravel` 
+
+`PostgreSQL` `MySQL` `SQLAlchemy` `Eloquent ORM` 
+
+`MongoDB` `Celery` `Redis` `WebSockets`
 
 ### Frontend
 `Next.js` `React` `TypeScript` `Tailwind CSS`
 
 ### Tools & Practices
-`Docker` `Git/GitHub` `Linux` `AWS` `Claude Code` `Spec-driven development`
+`Docker` `Git/GitHub` `Linux` `AWS` 
+
+`Claude Code` `Spec-driven development`
 
 ---
 
